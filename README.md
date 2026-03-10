@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 The expected dataset directory structure is:
 
-
+```
 brisc2025/
 │
 ├── classification_task/
@@ -79,7 +79,7 @@ brisc2025/
 └── test/
 ├── images/
 └── masks/
-
+```
 
 Each segmentation mask corresponds to the tumor region.
 
