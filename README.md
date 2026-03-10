@@ -134,7 +134,9 @@ Grad-CAM is applied to the final convolutional block.
 
 Layer used:
 
+```
 model.features[16]
+```
 
 This corresponds to the final convolutional feature map before global pooling.
 
@@ -146,13 +148,17 @@ Two quantitative XAI metrics are used.
 
 Soft overlap between attention map and tumor mask.
 
+```
 ATO = sum(Attention × Mask) / sum(Attention)
+```
 
 ### TCR (Tumor Coverage Ratio)
 
 Binary overlap between thresholded attention and tumor region.
 
+```
 TCR = sum(BinaryAttention × Mask) / sum(Mask)
+```
 
 Thresholds used:
 
