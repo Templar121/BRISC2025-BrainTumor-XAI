@@ -22,7 +22,7 @@ Please cite this paper if you use this code.
 
 Code repository:
 GitHub:  
-https://github.com/YOUR_USERNAME/BRISC2025-BrainTumor-XAI
+https://github.com/Templar121/BRISC2025-BrainTumor-XAI/tree/main
 
 
 Dataset used:
