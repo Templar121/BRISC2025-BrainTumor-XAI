@@ -1,0 +1,7 @@
+torch
+numpy
+pillow
+matplotlib
+opencv-python
+pandas
+scipy
