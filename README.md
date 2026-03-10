@@ -135,7 +135,7 @@ Grad-CAM is applied to the final convolutional block.
 Layer used:
 
 ```
-model.features[16]
+model.features[15]
 ```
 
 This corresponds to the final convolutional feature map before global pooling.
