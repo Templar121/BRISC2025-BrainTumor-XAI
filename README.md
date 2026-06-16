@@ -1,22 +1,12 @@
 # Quantitative and Causal Evaluation of Explainability in Brain Tumor MRI Classification
 
-This repository provides the official implementation of the research work submitted to **The Visual Computer (Springer)**.
+This repository provides the official implementation of the research work submitted to **Int. J. of Computational Science and Engineering (Inderscience)**.
 
 The code implements a **deep learning pipeline for brain tumor classification with explainable AI (XAI) analysis** using Grad-CAM and segmentation masks for quantitative interpretability evaluation.
 
 ---
 
-## Related Manuscript
 
-This code accompanies the manuscript currently submitted to:
-
-**The Visual Computer**
-
-Please cite this paper if you use this code.
-
-> Mukherjee S. , Tewari B. , "Quantitative and Causal Evaluation of Explainability in Brain Tumor MRI Classification", submitted to *The Visual Computer*.
-
----
 
 ## Permanent Research Artifacts
 
